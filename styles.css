@@ -138,6 +138,10 @@ body {
 /*Mobile Styles*/
 
 @media (max-width: 700px) {
+  body {
+  margin: 5px 0;
+  }
+  
   .card {
     width: 327px;
     height: 567px;
